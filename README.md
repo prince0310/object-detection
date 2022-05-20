@@ -25,6 +25,6 @@ $ python yolo_opencv.py --image dog.jpg --config yolov3.cfg --weights yolov3.wei
 ## Sample output
 ![object detection_screenshot_20 05 2022](https://user-images.githubusercontent.com/85225054/169530358-ef258664-86ac-416b-a819-b4f8c51b3233.png)
 
-# Refrence
+# Refrences
 - arunponnusamy
 - https://www.visiongeek.io/2018/07/yolo-object-detection-opencv-python.html
